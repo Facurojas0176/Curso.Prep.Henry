@@ -1,0 +1,16 @@
+1)
+-Variables: Son etiquetas o palabras las cuales tienen un nombre, el cual se lo damos nosotros, y pueden almacenar
+datos, los cuales pueden variar segun nosotros se lo pidamos.
+
+-Strings: Son cadenas de caractares conformadas por numeros,letras o simbolos.
+
+-Funciones: Son bloques de codigos los cuales toman o no un argumento desde el exterior y devulven un resultado, 
+se pueden llamar desde el programa las veces que sea necesarias
+
+-Declaraciones if: es un control de flujo el cual nos permite evaluar una condicion para poder realizar una acción
+y puede arrojar un valor verdadero ('true') o falso ('falso').
+
+-Valores booleanos(true, falso): como lo dice el nombre los valores booleanos se manejan bajo la logic de boole
+y solamente pueden tener un valor verdadero o falso, generalmente se utilizan para evaluar una condición
+por ejemplo si es verdad que 2<3 entonces arrojaria un valor verdadero o si queremos realizar tal acción hasta que esa acción
+se vuelva falsa.
