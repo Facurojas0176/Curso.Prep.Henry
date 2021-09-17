@@ -1,0 +1,6 @@
+1-En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. 
+Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+for: es una instruccion que nos permite realizar o repetir un mismo codigo una cantidad conocida de veces
+
+&&, ||, ! son los conectores logicos que podemos utilizar en javascript para poder crear exprexiones logicas.
