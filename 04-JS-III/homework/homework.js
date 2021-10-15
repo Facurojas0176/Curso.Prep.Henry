@@ -202,7 +202,7 @@ function mayorACien(array) {
   //valores mayores a 100 (no incluye el 100). Finalmente devolver el nuevo array.
   // Tu código:
   var arreglo = [];
-  for(i=0 ; array.length < i ; i++){
+  for(i=0 ; i < array.length ; i++){
     if(array[i] > 100){
       arreglo.push(array[i]);
     }
@@ -244,6 +244,15 @@ function continueStatement(numero) {
   //Cuando el número de iteraciones alcance el valor 5, no se suma en ese caso y se continua con la siguiente iteración
   //Pista: usá el statement 'continue'
   // Tu código:
+  var arreglo=[];
+  for(i = 0; i < 10 ; i++){
+    if(i == 5) continue;
+    else{
+      numero = numero + 2;
+      arreglo.push(numero);
+    }
+  }
+  return arreglo;
 }
 
 
