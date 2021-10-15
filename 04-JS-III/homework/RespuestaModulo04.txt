@@ -1,0 +1,8 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Arrays: Es una estructura de datos en forma de una lista la a la cual podemos acceder a traves de sus indices o numeros de pocision los cuales 
+van desde el 0 hasta el final del arreglo, cada pocision se podria decir que es una "cajita" la cual en la posicion a la que nosotros le indiquemos
+tendra un dato guardado dentro, como por ejemplo si tenemos un arreglo con una lista de nombres de personas,[0]"Facundo",[1]"Micaela",[3]"Tomas"
+en la posicion 0 estaria "Facundo" al cual podriamos acceder si le indicamos al arreglo que nos muestre que dato se encuentra en la posción 0
+si queremos que nos muestre el nombre de "Micaela" solo basta con decirle que queremos ver el dato que se encuantra en la posición 1, en resumen 
+un arreglo es una estructura de datos en forma de una lista a la cual podemos acceder a traves de sus indices(numero de posicion del arreglo).
